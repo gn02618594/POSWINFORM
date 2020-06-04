@@ -1,0 +1,2 @@
+# POSWINFORM
+嘗試自己用WINFORM做POS
